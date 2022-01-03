@@ -1,12 +1,13 @@
 # Interactivedirection
-Project for the class Conversation amoung people and bots by Diana Persico and Lucie Galland
+Project for the class Conversation among people and bots by Diana Persico and Lucie Galland
 
-In this project, we developped an interactive direction giving agent able to reformulate its instructions when asked to do so as well as a unity environement pdepeicting a city.
+In this project, we developed an interactive direction giving the agent able to reformulate its instructions when asked to do so as well as a unity environment depicting a city.
+In this repository you can find the corresponding articles and slides as well as a video of an interaction with the system, a transcript of an other interaction and the instructions for replication of the experiment.
 # Replication
 
 To run the software used for evaluation go into CompiledSoftware
-- makesure your computeris connected to internet
-- plug head phones and activate your microphone
+- make sure your computer is connected to the internet
+- plug headphones and activate your microphone
 - run Direction.exe
 - Condition 1 launch the interactive version and Condition 2 launch the baseline
 - Click on start
@@ -14,10 +15,10 @@ To run the software used for evaluation go into CompiledSoftware
 
 # Data analysis
 
-The folder Data analysis contains the csv file resuming our results and the R file used to analyse them
+The folder Data analysis contains the CSV file resuming our results and the R file used to analyze them.
 
 # Compilation of the software from scratch
 
-The folder DirectionUnity contain the Unity project used to create Direction.exe
-The project is developped under Unity2020.3.13f1
+The folder DirectionUnity contains the Unity project used to create Direction.exe
+The project is developed under Unity2020.3.13f1
 
