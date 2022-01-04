@@ -2,7 +2,7 @@
 Project for the class Conversation among people and bots by Diana Persico and Lucie Galland
 
 In this project, we developed an interactive direction giving the agent able to reformulate its instructions when asked to do so as well as a unity environment depicting a city.
-In this repository you can find the corresponding article and slides as well as [a video of an interaction](https://drive.google.com/file/d/1wvjuK6MQV8y7tgmuZc0l9U6Gn9l3W-wg/view?usp=sharing) with the system, a transcript of an other interaction and the instructions for replication of the experiment.
+In this repository you can find the corresponding article and slides as well as [a video of an interaction](https://drive.google.com/file/d/1Asdb_567PPayHDBlNYyqsut5BOYeGYVX/view?usp=sharing) with the system, a transcript of an other interaction and the instructions for replication of the experiment.
 # Replication
 
 To run the software used for evaluation go into CompiledSoftware
