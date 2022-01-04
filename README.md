@@ -13,6 +13,11 @@ To run the software used for evaluation go into CompiledSoftware
 - Click on start
 - If you are using Condition 1 make sure to wait for processing before repeating your input
 
+The commands are those of a classic video game :
+- The mouse control the direction of the camera
+- The arrow keys (or zqsd) control the direction relatively to the camera
+- The C key open and closes the map
+
 # Data analysis
 
 The folder Data analysis contains the CSV file resuming our results and the R file used to analyze them.
